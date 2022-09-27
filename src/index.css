@@ -1,0 +1,8 @@
+html {
+  overflow-y: scroll;
+}
+
+.container {
+  background-color: '#e3d5ca';
+  padding: '30px';
+}
